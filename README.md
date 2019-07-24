@@ -7,6 +7,7 @@ Evil Hangman stores words of length N from a dictionary in a root list. When the
 
 
 MAIN PROGRAM FILES:
+  dictionary.txt
   generic.c
   generic.h
   my_string.c
