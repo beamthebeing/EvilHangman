@@ -16,7 +16,7 @@ MAIN PROGRAM FILES:
   main.c
 
 
-TESTBENCH FILES:
+TEST FILES:
   test_def.c 
   unit_test.c
   unit_test.h
